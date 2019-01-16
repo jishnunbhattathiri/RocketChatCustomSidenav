@@ -1,0 +1,1 @@
+Template.mypopover.replaces('popover');
